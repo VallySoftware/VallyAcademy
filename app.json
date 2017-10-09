@@ -1,0 +1,8 @@
+{
+  "name": "VallyAcademy",
+  "description": "VallyAcademy application(It's site)",
+  "repository": "https://github.com/VallySoftware/VallyAcademy.git",
+  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
